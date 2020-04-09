@@ -2,6 +2,5 @@
 python、Rが中心。
 
 ## Profile
-- s-popper
-- Tokyo
-- Datascience
+- Live in Tokyo
+- Field : Datascience
